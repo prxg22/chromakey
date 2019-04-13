@@ -1,2 +1,0 @@
-# greenscreen
-Created with CodeSandbox
